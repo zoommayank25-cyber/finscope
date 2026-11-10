@@ -6,9 +6,9 @@ FinScope is an early-stage educational project. It currently includes transparen
 
 > FinScope is for education and exploration, not investment, tax, legal, or financial advice.
 
-## Try the app
+## Try the live app
 
-The public demo is being prepared. See [DEPLOY.md](DEPLOY.md) for the short Streamlit Community Cloud deployment guide.
+**[Open FinScope](https://zoommayank25-cyber-finscope-app-y2omhb.streamlit.app/)**
 
 ## Features
 
